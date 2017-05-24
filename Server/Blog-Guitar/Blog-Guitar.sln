@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog-Guitar", "Blog-Guitar\Blog-Guitar.csproj", "{89EF3B8B-2EE4-46FF-9C6C-7C72C48E80BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog-Guitar.Model", "Blog-Guitar.Model\Blog-Guitar.Model.csproj", "{FDBDBCA1-73DA-4C1C-86F0-FA53E14FC249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog-Guitar.Service", "Blog-Guitar.Service\Blog-Guitar.Service.csproj", "{9F5401A0-E223-45AA-BFDD-E5D461CB064B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89EF3B8B-2EE4-46FF-9C6C-7C72C48E80BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EF3B8B-2EE4-46FF-9C6C-7C72C48E80BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EF3B8B-2EE4-46FF-9C6C-7C72C48E80BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EF3B8B-2EE4-46FF-9C6C-7C72C48E80BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBDBCA1-73DA-4C1C-86F0-FA53E14FC249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBDBCA1-73DA-4C1C-86F0-FA53E14FC249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBDBCA1-73DA-4C1C-86F0-FA53E14FC249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBDBCA1-73DA-4C1C-86F0-FA53E14FC249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5401A0-E223-45AA-BFDD-E5D461CB064B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5401A0-E223-45AA-BFDD-E5D461CB064B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5401A0-E223-45AA-BFDD-E5D461CB064B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5401A0-E223-45AA-BFDD-E5D461CB064B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

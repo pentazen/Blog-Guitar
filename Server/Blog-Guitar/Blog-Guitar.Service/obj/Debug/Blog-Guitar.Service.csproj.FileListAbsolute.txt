@@ -1,0 +1,12 @@
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\Blog-Guitar.Service.dll.config
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\Blog-Guitar.Service.dll
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\Blog-Guitar.Service.pdb
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\Blog-Guitar.Model.dll
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\EntityFramework.dll
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\Blog-Guitar.Model.pdb
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\EntityFramework.xml
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\obj\Debug\Blog-Guitar.Service.csprojResolveAssemblyReference.cache
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\obj\Debug\Blog-Guitar.Service.dll
+D:\blogguitar\Server\Blog-Guitar\Blog-Guitar.Service\obj\Debug\Blog-Guitar.Service.pdb

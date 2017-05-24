@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
+import { SDKBrowserModule } from './shared/core/index';
 
 // router
 import { routing } from './app.routing';
@@ -26,7 +27,9 @@ import { Home2Component } from './home2/home2.component';
     BrowserModule,
     FormsModule,
     HttpModule,
-    routing
+    routing,
+    SDKBrowserModule.forRoot(),
+
   ],
   providers: [],
   bootstrap: [AppComponent]
